@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/mtpublic/Documents/Development/Android/projects/tractive-android-locator/libraries/tractive-android-authenticator/src/main/java/com/tractive/android/ui/activities/AuthenticatorActivity.java'" />
-    <option name="defaultScopeName" value="File '/Users/mtpublic/Documents/Development/Android/projects/tractive-android-locator/libraries/tractive-android-authenticator/src/main/java/com/tractive/android/ui/activities/AuthenticatorActivity.java'" />
+    <option name="customScope" value="Project 'tractive-android-locator'" />
+    <option name="defaultScopeName" value="Project 'tractive-android-locator'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/mtpublic/Documents/Development/Android/projects/tractive-android-locator/libraries/tractive-android-authenticator/src/main/java/com/tractive/android/ui/activities/AuthenticatorActivity.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'tractive-android-locator'" />
   </component>
 </application>
