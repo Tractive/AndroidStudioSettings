@@ -52,6 +52,78 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="true" />
   </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javassist.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://pmd.sf.net/ruleset/1.0.0" location="$USER_HOME$/Library/Caches/AndroidStudio2.1/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/Library/Caches/AndroidStudio2.1/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://pmd.sourceforge.net/ruleset/2.0.0" location="$USER_HOME$/Library/Caches/AndroidStudio2.1/extResources/f3eabfe9_ruleset_2_0_0.xsd" />
+    <resource url="http://www.puppycrawl.com/dtds/configuration_1_1.dtd" location="$USER_HOME$/Library/Caches/AndroidStudio2.1/extResources/1508b9b0_configuration_1_1.dtd" />
+    <resource url="http://www.puppycrawl.com/dtds/suppressions_1_1.dtd" location="$USER_HOME$/Library/Caches/AndroidStudio2.1/extResources/1ea4f47a_suppressions_1_1.dtd" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
