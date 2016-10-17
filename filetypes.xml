@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="runFullSyncTest.sh" type="PLAIN_TEXT" />
       <mapping pattern="screengrab-tests.txt" type="PLAIN_TEXT" />
+      <mapping pattern="PlayStoreTest" type="PLAIN_TEXT" />
       <mapping pattern="AuthLogin" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
