@@ -6,6 +6,7 @@
       <mapping pattern="PlayStoreTest" type="PLAIN_TEXT" />
       <mapping pattern="AuthLogin" type="PLAIN_TEXT" />
       <mapping pattern="syncTests" type="PLAIN_TEXT" />
+      <mapping pattern="GeofenceTests" type="PLAIN_TEXT" />
       <mapping pattern="WalkInstrumentationTests" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
