@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../app/src/main/java/com/tractive/android/gps/ui/dialogs/TrackerAlertDialogFragment.java - [app]'" />
     <option name="defaultScopeName" value="File '.../app/src/main/java/com/tractive/android/gps/ui/dialogs/TrackerAlertDialogFragment.java - [app]'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/tractive/android/gps/ui/dialogs/TrackerAlertDialogFragment.java - [app]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
