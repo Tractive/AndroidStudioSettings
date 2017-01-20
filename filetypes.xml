@@ -1,27 +1,28 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="runFullSyncTest.sh" type="PLAIN_TEXT" />
-      <mapping pattern="screengrab-tests.txt" type="PLAIN_TEXT" />
-      <mapping pattern="PlayStoreTest" type="PLAIN_TEXT" />
-      <mapping pattern="AuthLogin" type="PLAIN_TEXT" />
-      <mapping pattern="Screengrabfile" type="PLAIN_TEXT" />
-      <mapping pattern="FacebookEmailTest" type="PLAIN_TEXT" />
-      <mapping pattern="syncTests" type="PLAIN_TEXT" />
-      <mapping pattern="StoreScreenshots" type="PLAIN_TEXT" />
-      <mapping pattern="GeofenceTests" type="PLAIN_TEXT" />
-      <mapping pattern="WalkInstrumentationTests" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Screengrabfile" type="PLAIN_TEXT" />
+      <mapping pattern="tatarka-retrolambda.pro" type="PLAIN_TEXT" />
+      <mapping pattern="FacebookEmailTest" type="PLAIN_TEXT" />
+      <mapping pattern="runFullSyncTest.sh" type="PLAIN_TEXT" />
+      <mapping pattern="PlayStoreTest" type="PLAIN_TEXT" />
+      <mapping pattern="AuthLogin" type="PLAIN_TEXT" />
+      <mapping pattern="StoreScreenshots" type="PLAIN_TEXT" />
+      <mapping pattern="syncTests" type="PLAIN_TEXT" />
+      <mapping pattern="screengrab-tests.txt" type="PLAIN_TEXT" />
+      <mapping pattern="WalkInstrumentationTests" type="PLAIN_TEXT" />
+      <mapping pattern="GeofenceTests" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
