@@ -7,6 +7,7 @@
       <mapping pattern="AuthLogin" type="PLAIN_TEXT" />
       <mapping pattern="FacebookEmailTest" type="PLAIN_TEXT" />
       <mapping pattern="testPlugin" type="PLAIN_TEXT" />
+      <mapping pattern="UiTest" type="PLAIN_TEXT" />
       <mapping pattern="trac" type="PLAIN_TEXT" />
       <mapping pattern="Screengrabfile" type="PLAIN_TEXT" />
       <mapping pattern="StoreScreenshots" type="PLAIN_TEXT" />
