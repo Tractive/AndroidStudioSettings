@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="runFullSyncTest.sh" type="PLAIN_TEXT" />
       <mapping pattern="screengrab-tests.txt" type="PLAIN_TEXT" />
       <mapping pattern="PlayStoreTest" type="PLAIN_TEXT" />
