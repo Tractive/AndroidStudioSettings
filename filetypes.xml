@@ -12,19 +12,20 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="UiTest" type="PLAIN_TEXT" />
-      <mapping pattern="syncTests" type="PLAIN_TEXT" />
       <mapping pattern="Screengrabfile" type="PLAIN_TEXT" />
       <mapping pattern="trac" type="PLAIN_TEXT" />
+      <mapping pattern="StoreScreenshots" type="PLAIN_TEXT" />
       <mapping pattern="FacebookEmailTest" type="PLAIN_TEXT" />
       <mapping pattern="runFullSyncTest.sh" type="PLAIN_TEXT" />
       <mapping pattern="PlayStoreTest" type="PLAIN_TEXT" />
       <mapping pattern="testPlugin" type="PLAIN_TEXT" />
-      <mapping pattern="StoreScreenshots" type="PLAIN_TEXT" />
       <mapping pattern="AuthLogin" type="PLAIN_TEXT" />
+      <mapping pattern="syncTests" type="PLAIN_TEXT" />
       <mapping pattern="screengrab-tests.txt" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="WalkInstrumentationTests" type="PLAIN_TEXT" />
       <mapping pattern="GeofenceTests" type="PLAIN_TEXT" />
+      <mapping ext="kml" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
