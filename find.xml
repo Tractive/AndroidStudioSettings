@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/com/tractive/android/walk/feature/location/service/BgLocationService.java - [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/com/tractive/android/walk/feature/location/service/BgLocationService.java - [app]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/tractive/android/walk/feature/location/service/BgLocationService.java - [app]'" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
