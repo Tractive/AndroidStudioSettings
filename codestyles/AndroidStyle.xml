@@ -14,6 +14,8 @@
   <option name="FIELD_NAME_PREFIX" value="m" />
   <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
   <option name="PARAMETER_NAME_PREFIX" value="_" />
+  <option name="USE_FQ_CLASS_NAMES" value="true" />
+  <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
   <option name="IMPORT_LAYOUT_TABLE">
@@ -101,6 +103,7 @@
   </DBN-SQL>
   <JetCodeStyleSettings>
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
   </JetCodeStyleSettings>
   <Objective-C-extensions>
     <file>
