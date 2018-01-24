@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/src/main/java/com/tractive/android/gps/features/activitytracking/stats/view/ui/views/AnimatedCircleView.kt - [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/com/tractive/android/gps/features/activitytracking/stats/view/ui/views/AnimatedCircleView.kt - [app]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/tractive/android/gps/features/activitytracking/stats/view/ui/views/AnimatedCircleView.kt - [app]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
